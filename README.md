@@ -1,8 +1,8 @@
 # <p align="center">:mortar_board: Digital Innovation One - Curso :mortar_board:</p>
 ## <p align="center">:computer: Projeto ReactJS PWA:computer:</p>
-<p align="center"> :computer:Apredendo a criar uma aplicação ReatJS de notícias utilizado PWA:computer:</p>
-
-#### <p align="center"> O projeto ministrado pelo Bruno Carneiro, aprendendo a criar uma aplicação ReactJS de notícias utilizando PWA</p>
+### <p align="center"> :computer:Apredendo a criar uma aplicação ReatJS de notícias utilizado PWA:computer:</p>
+#
+#### O projeto ministrado pelo Bruno Carneiro
 
 #
 # Getting Started with Create React App
